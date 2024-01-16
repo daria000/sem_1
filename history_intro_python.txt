@@ -1,0 +1,28 @@
+    1  git remote add origin https://github.com/daria000/sem_1.git
+    2  git branch -M main
+    3  git push -u origin main
+    4  git add main.py
+    5  git commit -m "Added main.py"
+    6  git config --global user.email "d.smirnowa2014@gmail.com"
+    7  git push -u origin main
+    8  git config credential.username "daria000"
+    9  git push -u origin main
+   10  git status
+   11  git commit -m "Addded main.py"
+   12  git add main.py
+   13  git commit -m "Addded main.py"
+   14  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
+   15  git config --global user.mail "d.smirnowa2014@gmail.com"
+   16  git config --global user.name "Arian Clue"
+   17  git add main.py
+   18  git commit -m "Addded main.py"
+   19  git push -u origin.main
+   20  git push -u origin main
+   21  python
+   22  python
+   23  git status
+   24  git add main.py
+   25  git commit -m "Coded solution to string exersize"
+   26  git push -u origin main
+   27  history
+   28  history > history_intro_python.txt
